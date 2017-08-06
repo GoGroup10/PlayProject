@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_2ee57451365dbcfe516e2a387fb315432bce1a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_e887970b6e9767d3cd3c979ce54e7380a7bd3459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_6aed3e6fd4b65041d1e5e2cf685f80f564e9e06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.25.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="474cccf169297d49fff89fd35b7634a7a9d1031c">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.25.0_ad2612a84dc101c00b015e2f23a634a5a6943c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_abfaf09f0508336bdf79c7f19ac268b3613bc97d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_315b3121975951b72002f5dae4d0e50d66e776e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/PlayProject/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71519d58111acda15d5cb2be4d54674f96cb7ba9">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/PlayProject-react-native-fbsdk-unspecified_f962265fe99941c539301e391c7c6b4d21d3bcb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.4_8cb3d4d1e952927057917926d62ba595e243371c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_08a1281b2c122b0f8d9191c03dd4bdb45dcdb482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_bd7f701b6e81b24b99956eb4c6fb552949fe2716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_d449afa5efc5ccff860f4eb2d5044621de69d4c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_a312ef11c4fac879cb7d8c3a52be9cf6c055a73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_64f342ba7aabc615d494492ef940d36114f429e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_351ff72442ff7d4584a335bf6c6993988381349f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.3.1_92efe317be28590f0225a28663651507fe54fb3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_44d504583546c2ab1080fe00e506f3e8dd8ea336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_aca36e084de6fe5f7d10c9c8b1f485fb924015a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_d4e97fa126fca07257912414f95e54dbd0494717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_9167105dc8875bfbfe0177f559ef58553ad51db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_5f1d079c63eee44e31f50c8e6447ba4111564451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_98260e2ea43f15fc98cf90e46c3fb4402f8cbca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_a31fbf64e68737edaf94a0170d76d1ee97de92ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_3527a420ee8d4d308275ae81f39766cb4e2dff05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.3.1_e1765e43248c7fed4c9da9bbb5bfb404e1a620af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/PlayProject/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/PlayProject-react-native-vector-icons-unspecified_d4253c5abd713ee4f6dff83edc0b390e7846ab3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_231e46564bb0c476b96b407711396b93a9fa6b46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_afc0f9b4f2d55ad6234addb0a8afbd1358196f2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_215c74cd722f1ef7f39235f719b85a8d20ad2b58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_eefbcef7011770b0e09d5d79783f09841ceedb30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_f896a95f17c7a03c364e0cf57bfe0229576e17b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_d08f6b722c5d0cce9ac34e4134f3eea635a66b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_84a55d3940b9266744b31be23d36d8da372be7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/josuesf/Documents/ReactNative/PlayProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_ee9bc665e70a7e79519eff03a330f2706ca6ea2f.jar" />
+    </item>
+
+</items>
